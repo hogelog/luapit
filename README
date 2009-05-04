@@ -1,0 +1,4 @@
+install:
+# cp pit.lua /usr/share/lua/<version>/
+
+pit.lua require luaYAML (http://luaforge.net/projects/luayaml/).
